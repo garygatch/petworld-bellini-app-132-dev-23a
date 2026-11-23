@@ -730,6 +730,12 @@
       },
       "type": "method",
       "watch": []
+    },
+    {
+      "description": "",
+      "name": "test",
+      "type": "property",
+      "value": ""
     }
   ]
 }
